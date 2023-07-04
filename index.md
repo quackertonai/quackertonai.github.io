@@ -60,6 +60,8 @@ As a solo developer, the discord bot has been my passion project for a while, an
 ![](https://media.discordapp.net/attachments/1077363471617904650/1111404745047949453/6ec39b8e-f144-476b-8e06-358cc2d2d18a_2.png)
 ![](https://media.discordapp.net/attachments/1079494398984859699/1125690341903826975/1960157d-83e7-40ba-bda0-c2da0ae971c7_1.png)
 ![](https://media.discordapp.net/attachments/1125401617194295317/1125817101345624225/3_648b9b0665e03_upscaled_by_dgb_lol.jpg)
+![](https://media.discordapp.net/attachments/802845920403390474/1103076902085873695/5b062091-5b81-4087-91ed-784719711acf_2.png)
+![](https://media.discordapp.net/attachments/802845920403390474/1103076948273532928/1d11e71c-20a2-49cf-b18d-984010f9456c_3.png)
 
 
 ```py
