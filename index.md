@@ -54,21 +54,12 @@ As a solo developer, the discord bot has been my passion project for a while, an
 > [**Terms Of Service**](./tos.html)
 > [**Privacy Policy**](./pp.html)
 
-![Man working on a glass jar](https://media.discordapp.net/attachments/1077363471617904650/1102991819991683082/f5988f6d-3a42-4842-9bd2-4c35ba744e8c_3.png?width=786&height=786)
-![Nightclub person](https://media.discordapp.net/attachments/1077363471617904650/1098804010405867550/9148d10d-829e-42cc-8034-aa6967ebd922.png?width=856&height=856)
-![Green ice cream truck at night](https://media.discordapp.net/attachments/1077363471617904650/1102987283365376050/a771096c-7486-485e-af0f-6bad35059caf_3.png?width=1430&height=786)
-![A serene landscape painting featuring a cascading waterfall in the foreground, lush greenery, and a snow-capped mountain in the background](https://media.discordapp.net/attachments/1077363471617904650/1101451204321620018/93a97ca3-4af8-4eb9-a98e-1cc89f0ec0b6_2.png?width=1246&height=856)
-![The end of the world](https://media.discordapp.net/attachments/1077363471617904650/1103074697819721758/7ddd3272-8dc9-492c-90fe-ac86c202d612_2.png)
-![Cow-shaped bong](https://media.discordapp.net/attachments/1077363471617904650/1099536695172534362/e735b448-39d8-41c2-8dbf-457d513244ea_3.png)
-![Bustling venus city](https://media.discordapp.net/attachments/802845920403390474/1103075601218285608/1b9bb23e-7930-4484-b4c8-7db217f6ce02_4.png)
-![Rich city](https://media.discordapp.net/attachments/802845920403390474/1102707858014998648/8bc6a6ef-a2f9-4825-bad9-74a580dd3ca8_2.png)
-![Abstract color art](https://media.discordapp.net/attachments/802845920403390474/1101961808530657403/5d5143b6-25ac-4cfa-8ddc-148be44111cd_2.png)
-![A table with fantasy food](https://media.discordapp.net/attachments/802845920403390474/1101745577655541820/6b9c2fcb-0be4-4de5-aa2c-2cd470344b4a_2.png)
-![More fantasy food](https://media.discordapp.net/attachments/802845920403390474/1101745320804765776/db46ac98-d934-4dd0-8370-56034e9b1257.png)
-![Bedroom designs](https://media.discordapp.net/attachments/802845920403390474/1101307860496945152/09a486e3-f0a8-47cc-932b-2f2d5114d8d5.png)
-![Unicorn in a surreal landscape](https://media.discordapp.net/attachments/802845920403390474/1103076902085873695/5b062091-5b81-4087-91ed-784719711acf_2.png)
-![stylized gorge](https://media.discordapp.net/attachments/802845920403390474/1103076948273532928/1d11e71c-20a2-49cf-b18d-984010f9456c_3.png)
-![Elon Musk Suited](https://media.discordapp.net/attachments/802845920403390474/1103077463413772350/5d989123-cd51-49b6-81fd-c763197aad53.png)
+![](https://media.discordapp.net/attachments/1079494398984859699/1123721196740026368/14318cd4-a5e5-4a55-af33-67c20e58a771_1.png)
+![](https://media.discordapp.net/attachments/1077363471617904650/1113350218742763530/22657342-0db2-473d-8473-8b4ffbaec7ee_2.png)
+![](https://media.discordapp.net/attachments/1077363471617904650/1111019359117267095/c5e40482-dbf6-4ad3-891f-336c7cfb1517_3.png)
+![](https://media.discordapp.net/attachments/1077363471617904650/1111404745047949453/6ec39b8e-f144-476b-8e06-358cc2d2d18a_2.png)
+![](https://media.discordapp.net/attachments/1079494398984859699/1125690341903826975/1960157d-83e7-40ba-bda0-c2da0ae971c7_1.png)
+![](https://media.discordapp.net/attachments/1125401617194295317/1125817101345624225/3_648b9b0665e03_upscaled_by_dgb_lol.jpg)
 
 
 ```py
